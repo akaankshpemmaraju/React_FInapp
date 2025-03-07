@@ -32,7 +32,3 @@ This project is being developed with the following technologies:
    <img src="./.github/screen2.png.png" width="400px">
 </div>
 
-This project by [Sergio Rosa](https://www.linkedin.com/in/sergiorosa1/). 
-
-Thank you! 
-
