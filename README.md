@@ -4,7 +4,7 @@
 
 <div align="center">
   <sub> 
-    <a href="https://www.linkedin.com/in/sergiorosa1/"> Sergio Rosa 
+    <a> Akaanksh Pemmaraju
   </sub>
 </div>
 
